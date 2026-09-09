@@ -1,0 +1,6 @@
+{
+  "name": "SanghaTelangana",
+  "description": "Digital heritage platform dedicated to documenting and showcasing Telangana's Buddhist heritage through interactive exploration, digital archives, virtual tours, 3D experiences, and AI heritage assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
